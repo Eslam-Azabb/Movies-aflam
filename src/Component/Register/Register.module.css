@@ -1,0 +1,11 @@
+.bg{
+    background-size: cover;
+}
+.box{
+    background: #d7baa600;
+    box-shadow: 0 15px 50px #0a1516c9;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
