@@ -3,6 +3,8 @@
 ---------------------------------------------
 
 # Movies Site - Movies and Series
+. Appliction maded by React Js.
+
 · Responsive
 
 · Dealing with API's
